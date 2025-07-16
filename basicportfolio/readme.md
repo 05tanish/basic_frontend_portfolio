@@ -1,4 +1,4 @@
-# 🌐  most basic Personal Portfolio - Tanish Jain
+# 🌐  Most Basic Personal Portfolio - Tanish Jain
 
 its protoype 
 
