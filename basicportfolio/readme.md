@@ -28,9 +28,10 @@ This is a responsive personal portfolio website built using **HTML**, **CSS**, a
 ├── style.css          # Stylesheet with custom styles
 ├── app.js             # JavaScript logic for scroll & form
 ├── photos/            # Images for hero, projects, certificates, etc.
-
+```
 
 💼 Features
+
 👋 Hero section with introduction and CTA
 
 👨‍💻 About Me section with a bio
@@ -45,7 +46,8 @@ This is a responsive personal portfolio website built using **HTML**, **CSS**, a
 
 🔗 Footer with useful links and social handles
 
-⚙️ Setup Instructions
+⚙️ Setup Instructions:->
+
 Clone this repository
 
 git clone https://github.com/your-username/portfolio.git
@@ -55,7 +57,7 @@ You can simply open index.html in any web browser.
 
 💡 No build tools or frameworks needed. It’s 100% static and lightweight.
 
-🔧 Future Improvements
+🔧 Future Improvements:->
 
 Improve ui and  shift to advance design 
 
